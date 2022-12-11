@@ -1,1 +1,0 @@
-This folder contains models saved by train.py.

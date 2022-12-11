@@ -1,1 +1,0 @@
-This folder contains instances generated at random (Cordeau 2006) and their corresponding solutions (Rist 2021).
